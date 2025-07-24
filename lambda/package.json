@@ -1,0 +1,12 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@aws-sdk/client-dynamodb": "^3.500",
+        "@aws-sdk/client-ses": "^3.500",
+        "node-fetch": "^3.3"
+    },
+    "devDependencies": {
+        "aws-sdk-client-mock": "^4.1.0",
+        "jest": "^30.0.5"
+    }
+}
